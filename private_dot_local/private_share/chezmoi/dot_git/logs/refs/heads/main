@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 a67a6457c3bada809466ee2cbaf734fe314cb46a Brandon <bantillon@pm.me> 1656875992 -0700	commit (initial): mac specific zshrc file
-a67a6457c3bada809466ee2cbaf734fe314cb46a a67a6457c3bada809466ee2cbaf734fe314cb46a Brandon <bantillon@pm.me> 1656876006 -0700	Branch: renamed refs/heads/master to refs/heads/main
-a67a6457c3bada809466ee2cbaf734fe314cb46a 150e3c12365a5da6ec9b05343f47c06bcda20883 Brandon <bantillon@pm.me> 1656876047 -0700	commit: added readmed
-150e3c12365a5da6ec9b05343f47c06bcda20883 bf30ac5940f31ecbc211b72d1a4c1c98ccf844d9 Brandon <bantillon@pm.me> 1656876144 -0700	commit: Added .config
